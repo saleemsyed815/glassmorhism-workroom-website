@@ -41,14 +41,7 @@ a{
     transform: scale(1.15);
 }
 
-@keyframes hue{
-    from{
-        filter: hue-rotate(0);
-    }
-    to{
-        filter: hue-rotate(360deg);
-    }
-}
+
 
 /* glassmorphism effect complete */
 
